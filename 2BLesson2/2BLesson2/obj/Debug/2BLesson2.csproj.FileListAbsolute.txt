@@ -1,0 +1,7 @@
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\obj\Debug\2BLesson2.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\obj\Debug\2BLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\bin\Debug\2BLesson2.exe.config
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\bin\Debug\2BLesson2.exe
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\bin\Debug\2BLesson2.pdb
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\obj\Debug\2BLesson2.exe
+C:\Users\Сергей\source\repos\2BLesson2\2BLesson2\obj\Debug\2BLesson2.pdb
